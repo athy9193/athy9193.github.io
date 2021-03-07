@@ -3,11 +3,8 @@ layout: post
 title: "“Am I looking at the same data?” - A note on Simpson’s paradox"
 date: 2021-03-03
 ---
-
-“Am I looking at the same data?” - A note on Simpson’s paradox
 ================
 Alex Truong
-3/3/2021
 
   - [Introduction](#introduction)
   - [A simple example on university admission
