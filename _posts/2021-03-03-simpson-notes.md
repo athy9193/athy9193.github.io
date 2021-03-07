@@ -71,8 +71,9 @@ separate_dept <- admit_df %>%
   summarize(count = sum(count)) %>%
   mutate(prop = count / sum(count))
 ```
+![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/separate%20dept-1.png)<!-- -->
 
-![](blog_files/figure-gfm/separate%20dept-1.png)<!-- -->
+![](blog_files/figure-gfm/separate%20dept-1.png)
 
 As can be seen, for this hypothetical university, both department A and
 department B seem to favor female candidates with the admission rate for
@@ -89,7 +90,9 @@ aggregate_dept <- admit_df %>%
   mutate(prop = count / sum(count))
 ```
 
-![](blog_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+
+![](blog_files/figure-gfm/unnamed-chunk-3-1.png)
 
 Interestingly, under the aggregate data, the admission rate for females
 (\(75.6\%\)) is lower than that for males (\(81.4\%\)). What is going
@@ -130,6 +133,8 @@ aggregate_admit <- admit_df %>%
 
 ![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
+![](blog_files/figure-gfm/unnamed-chunk-5-1.png)
+
 From Figure 3 above, the proportion of male candidates applying for
 department A is at \(90.3\%\), which is much higher than that of female
 candidates. This translates to more male applicants for department A
@@ -148,12 +153,11 @@ express this in one expression as below, where we can see how the
 admission rates in Figure 2 are linked or reconciled with those in
 Figure 1 and 3.
 
-<img src="blog_files/figure-gfm/simpson_latex.png" class="img-responsive" alt="">
+
+![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/simpson_latex.png)<!-- -->
 
 ![](blog_files/figure-gfm/simpson_latex.png)
-![](../images/avatar.png)
-
-
+<img src="blog_files/figure-gfm/simpson_latex.png" class="img-responsive" alt="">
 ## Further discussion and Takeaways
 
 Now, let’s imagine you only have data for Figure 2 and do not have
