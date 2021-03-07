@@ -147,7 +147,10 @@ express this in one expression as below, where we can see how the
 admission rates in Figure 2 are linked or reconciled with those in
 Figure 1 and 3.
 
-![](blog_files/figure-gfm/simpson_latex.png)<!-- -->
+<img src="blog_files/figure-gfm/simpson_latex.png" class="img-responsive" alt=""> </div>
+![](blog_files/figure-gfm/simpson_latex.png)
+
+<!-- -->
 
 ## Further discussion and Takeaways
 
@@ -199,7 +202,8 @@ Principle.” *Journal of the American Statistical Association* 67 (338):
 
 Carlson, B. W. 2019. “Simpson’s Paradox.” Edited by Encyclopedia
 Britannica.
-[https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765](https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765).
+[https://www.britannica.com/topic/Simpsons-paradox](hhttps://www.britannica.com/topic/Simpsons-paradox).
+
 
 </div>
 
@@ -224,8 +228,7 @@ Mathematical or Physical Character*, no. 192: 257–330.
 <div id="ref-R">
 
 R Core Team. 2020. *R: A Language and Environment for Statistical
-Computing*. Vienna, Austria: R Foundation for Statistical Computing.
-[https://www.R-project.org/](https://www.R-project.org/).
+Computing*. Vienna, Austria: R Foundation for Statistical Computing. [https://www.R-project.org/](https://www.R-project.org/)
 
 </div>
 
@@ -241,8 +244,7 @@ Contingency Tables.” *Journal of the Royal Statistical Society: Series B
 
 Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy
 D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019.
-“Welcome to the tidyverse.” *Journal of Open Source Software* 4 (43):
-1686. [https://doi.org/10.21105/joss.01686](https://doi.org/10.21105/joss.01686).
+“Welcome to the tidyverse.” *Journal of Open Source Software* 4 (43):1686 [https://doi.org/10.21105/joss.01686](https://doi.org/10.21105/joss.01686).
 
 </div>
 
