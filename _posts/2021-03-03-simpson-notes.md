@@ -149,6 +149,7 @@ Figure 1 and 3.
 
 <img src="blog_files/figure-gfm/simpson_latex.png" class="img-responsive" alt="">
 
+![](blog_files/figure-gfm/simpson_latex.png)
 ![](../images/avatar.png)
 
 
