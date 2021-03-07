@@ -147,10 +147,10 @@ express this in one expression as below, where we can see how the
 admission rates in Figure 2 are linked or reconciled with those in
 Figure 1 and 3.
 
-<img src="blog_files/figure-gfm/simpson_latex.png" class="img-responsive" alt=""> </div>
+<img src="blog_files/figure-gfm/simpson_latex.png" class="img-responsive" alt="">
+
 ![](blog_files/figure-gfm/simpson_latex.png)
 
-<!-- -->
 
 ## Further discussion and Takeaways
 
@@ -188,33 +188,20 @@ assignment of module DSCI\_554 of Dr. Gilberto Alexi Rodriguez Arelis
 
 Inspiration from (Grigg 2018)
 
-<div id="refs" class="references hanging-indent">
-
-<div id="ref-blyth1972simpson">
 
 Blyth, Colin R. 1972. “On Simpson’s Paradox and the Sure-Thing
 Principle.” *Journal of the American Statistical Association* 67 (338):
 364–66.
 
-</div>
-
-<div id="ref-Britannica">
 
 Carlson, B. W. 2019. “Simpson’s Paradox.” Edited by Encyclopedia
 Britannica.
 [https://www.britannica.com/topic/Simpsons-paradox](hhttps://www.britannica.com/topic/Simpsons-paradox).
 
 
-</div>
-
-<div id="ref-TDS">
-
 Grigg, Tom. 2018. “Simpson’s Paradox and Interpreting Data.”
 [https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765](https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765).
 
-</div>
-
-<div id="ref-pearson1899vi">
 
 Pearson, Karl, Alice Lee, and Leslie Bramley-Moore. 1899. “VI.
 Mathematical Contributions to the Theory of Evolution.-VI. Genetic
@@ -223,39 +210,23 @@ Fecundity in Thoroughbred Racehorses.” *Philosophical Transactions of
 the Royal Society of London. Series A, Containing Papers of a
 Mathematical or Physical Character*, no. 192: 257–330.
 
-</div>
-
-<div id="ref-R">
 
 R Core Team. 2020. *R: A Language and Environment for Statistical
 Computing*. Vienna, Austria: R Foundation for Statistical Computing. [https://www.R-project.org/](https://www.R-project.org/)
 
-</div>
-
-<div id="ref-simpson1951interpretation">
 
 Simpson, Edward H. 1951. “The Interpretation of Interaction in
 Contingency Tables.” *Journal of the Royal Statistical Society: Series B
 (Methodological)* 13 (2): 238–41.
 
-</div>
-
-<div id="ref-tidyverse">
 
 Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy
 D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019.
 “Welcome to the tidyverse.” *Journal of Open Source Software* 4 (43):1686 [https://doi.org/10.21105/joss.01686](https://doi.org/10.21105/joss.01686).
 
-</div>
-
-<div id="ref-yule1900vii">
 
 Yule, George Udny. 1900. “VII. On the Association of Attributes in
 Statistics: With Illustrations from the Material of the Childhood
 Society, \&c.” *Philosophical Transactions of the Royal Society of
 London. Series A, Containing Papers of a Mathematical or Physical
 Character* 194 (252-261): 257–319.
-
-</div>
-
-</div>
