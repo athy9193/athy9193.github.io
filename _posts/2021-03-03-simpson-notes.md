@@ -2,6 +2,7 @@
 layout: post
 title: "“Am I looking at the same data?” - A note on Simpson’s paradox"
 date: 2021-03-03
+markdown: kramdown
 ---
 
 Alex Truong
