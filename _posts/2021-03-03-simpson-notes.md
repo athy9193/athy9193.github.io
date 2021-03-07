@@ -128,7 +128,7 @@ aggregate_admit <- admit_df %>%
   mutate(prop = count / sum(count))
 ```
 
-![](https://github.com/athy9193/athy9193.github.io/tree/main/_posts/blog_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
+![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
 From Figure 3 above, the proportion of male candidates applying for
 department A is at \(90.3\%\), which is much higher than that of female
