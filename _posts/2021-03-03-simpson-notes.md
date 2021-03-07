@@ -199,14 +199,14 @@ Principle.” *Journal of the American Statistical Association* 67 (338):
 
 Carlson, B. W. 2019. “Simpson’s Paradox.” Edited by Encyclopedia
 Britannica.
-[](https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765).
+[https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765](https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765).
 
 </div>
 
 <div id="ref-TDS">
 
 Grigg, Tom. 2018. “Simpson’s Paradox and Interpreting Data.”
-[](https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765).
+[https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765](https://towardsdatascience.com/simpsons-paradox-and-interpreting-data-6a0443516765).
 
 </div>
 
@@ -225,7 +225,7 @@ Mathematical or Physical Character*, no. 192: 257–330.
 
 R Core Team. 2020. *R: A Language and Environment for Statistical
 Computing*. Vienna, Austria: R Foundation for Statistical Computing.
-[](https://www.R-project.org/).
+[https://www.R-project.org/](https://www.R-project.org/).
 
 </div>
 
@@ -242,7 +242,7 @@ Contingency Tables.” *Journal of the Royal Statistical Society: Series B
 Wickham, Hadley, Mara Averick, Jennifer Bryan, Winston Chang, Lucy
 D’Agostino McGowan, Romain François, Garrett Grolemund, et al. 2019.
 “Welcome to the tidyverse.” *Journal of Open Source Software* 4 (43):
-1686. [](https://doi.org/10.21105/joss.01686).
+1686. [https://doi.org/10.21105/joss.01686](https://doi.org/10.21105/joss.01686).
 
 </div>
 
