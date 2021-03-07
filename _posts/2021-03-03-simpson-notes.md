@@ -73,8 +73,6 @@ separate_dept <- admit_df %>%
 ```
 ![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/separate%20dept-1.png)<!-- -->
 
-![](blog_files/figure-gfm/separate%20dept-1.png)
-
 As can be seen, for this hypothetical university, both department A and
 department B seem to favor female candidates with the admission rate for
 females is higher than that for males for both departments. Assuming
@@ -91,8 +89,6 @@ aggregate_dept <- admit_df %>%
 ```
 
 ![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
-
-![](blog_files/figure-gfm/unnamed-chunk-3-1.png)
 
 Interestingly, under the aggregate data, the admission rate for females
 (\(75.6\%\)) is lower than that for males (\(81.4\%\)). What is going
@@ -133,8 +129,6 @@ aggregate_admit <- admit_df %>%
 
 ![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/unnamed-chunk-5-1.png)<!-- -->
 
-![](blog_files/figure-gfm/unnamed-chunk-5-1.png)
-
 From Figure 3 above, the proportion of male candidates applying for
 department A is at \(90.3\%\), which is much higher than that of female
 candidates. This translates to more male applicants for department A
@@ -156,8 +150,8 @@ Figure 1 and 3.
 
 ![](https://raw.githubusercontent.com/athy9193/athy9193.github.io/main/_posts/blog_files/figure-gfm/simpson_latex.png)<!-- -->
 
-![](blog_files/figure-gfm/simpson_latex.png)
 <img src="blog_files/figure-gfm/simpson_latex.png" class="img-responsive" alt="">
+
 ## Further discussion and Takeaways
 
 Now, let’s imagine you only have data for Figure 2 and do not have
